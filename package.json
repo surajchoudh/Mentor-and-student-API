@@ -1,13 +1,13 @@
 {
   "name": "mentor",
   "version": "1.0.0",
-  "description": "",
+  "description": "mentor and student",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js", // Script to start the server in production
-    "dev": "nodemon index.js", // Script to run the server in development using nodemon
-    "test": "jest" // Script to run tests (if using Jest for testing)
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
