@@ -1,0 +1,26 @@
+{
+    "mentors": [
+        {
+            "name": "John Doe",
+            "students": []
+        },
+        {
+            "name": "Jane Smith",
+            "students": []
+        }
+    ],
+    "students": [
+        {
+            "name": "Alice",
+            "mentor": null
+        },
+        {
+            "name": "Bob",
+            "mentor": null
+        },
+        {
+            "name": "Charlie",
+            "mentor": null
+        }
+    ]
+}
